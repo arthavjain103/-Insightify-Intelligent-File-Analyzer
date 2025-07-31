@@ -82,7 +82,7 @@ Insightify bridges the gap between raw data and actionable insight with a seamle
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/autoinsight.git && cd autoinsight
+git clone https://github.com/your-username/Insightify-Intelligent-File-Analyzer.git && cd smart-file-analyzer
 
 # 2. Install dependencies
 pip install -r requirements.txt
